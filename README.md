@@ -1,4 +1,4 @@
-# CM_gr20
+# Python Game Development
 
 ## Name
 Kirby Mass attack ! Strato patrol EOS
@@ -11,14 +11,12 @@ Kirby Mass attack ! Strato patrol EOS
 - Constanza VICENCIO CERESETO
 
 ## Description
-Créer au moins un MVP du jeu Kirby attack en pygame en affichant au début qu'un fond qui défile et un rectangle en guise de personnage que le joueur peut faire se déplacer.
+The game draws inspiration from the sub-game Strato Patrol EOS featured in Kirby Mass Attack, originally released on the Nintendo DS. In this exciting mini-game, players guide multiple Kirbys through colorful skies, dodging obstacles and defeating enemies in a fast-paced aerial adventure.
 
-## Dépot GITLab
-
-https://gitlab-cw4.centralesupelec.fr/medaziz.bchir/cm_gr20.git
+Strato Patrol EOS utilized the Nintendo DS's unique features, including dual screens, to enhance gameplay and immersion. This version adapts the original concept for computers, improving graphics and controls while retaining the charm of the original. Players can now enjoy this delightful flying adventure on a larger screen with a fresh twist!
 
 ## photo démo
-![Alt text](Assets/photo_demo/phot_demo_3.png)
+![Alt text](Assets/Views_game/Playing_01_view.png)
 
 
 ## Installation
