@@ -4,7 +4,7 @@
 Kirby Mass attack ! Strato patrol EOS
 
 ## Description
-The game draws inspiration from the sub-game Strato Patrol EOS featured in Kirby Mass Attack, originally released on the Nintendo DS. In this exciting mini-game, players guide multiple Kirbys through colorful skies, dodging obstacles and defeating enemies in a fast-paced aerial adventure.
+The game draws **inspiration from the sub-game Strato Patrol EOS featured in Kirby Mass Attack**, originally released on the Nintendo DS. In this exciting mini-game, players guide multiple Kirbys through colorful skies, dodging obstacles and defeating enemies in a fast-paced aerial adventure.
 
 Strato Patrol EOS utilized the Nintendo DS's unique features, including dual screens, to enhance gameplay and immersion. This version adapts the original concept for computers, improving graphics and controls while retaining the charm of the original. Players can now enjoy this delightful flying adventure on a larger screen with a fresh twist!
 
