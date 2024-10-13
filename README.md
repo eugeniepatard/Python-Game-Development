@@ -8,7 +8,7 @@ The game draws inspiration from the sub-game Strato Patrol EOS featured in Kirby
 
 Strato Patrol EOS utilized the Nintendo DS's unique features, including dual screens, to enhance gameplay and immersion. This version adapts the original concept for computers, improving graphics and controls while retaining the charm of the original. Players can now enjoy this delightful flying adventure on a larger screen with a fresh twist!
 
-## photo démo
+## Demo photo
 <img src="Views_game/Playing_01_view.png" alt="Alt text" width="400"/>
 
 ## Installation
@@ -38,7 +38,7 @@ python kirby_game.py
 In the future, difficulty levels will be implemented in our game, along with different worlds featuring different monsters.
 
 ## Contributing
-To test the main code (kirby_game.py), use the test files test_kirby_game.py :
+To test the main code (kirby_game.py), use the test file test_kirby_game.py :
 ```bash
 python test_kirby_game.py
 ```
