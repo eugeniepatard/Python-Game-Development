@@ -17,7 +17,7 @@ The modules to import:
 >pip install pygame os random
 
 ## Usage
-1. To run the game, execute the file kirby_game.py: https://gitlab-cw4.centralesupelec.fr/medaziz.bchir/cm_gr20/-/blob/main/kirby_game.py
+1. To run the game, execute the file kirby_game.py: 
 
 ```bash
 python kirby_game.py
@@ -38,6 +38,9 @@ python kirby_game.py
 In the future, difficulty levels will be implemented in our game, along with different worlds featuring different monsters.
 
 ## Contributing
-Pour tester le code principale (kirby_game.py), utiliser les fichiers test_kirby_game.py : https://gitlab-cw4.centralesupelec.fr/medaziz.bchir/cm_gr20/-/blob/main/test_kirby_game.py
+To test the main code (kirby_game.py), use the test files test_kirby_game.py :
+```bash
+python test_kirby_game.py
+```
 
 
