@@ -569,7 +569,7 @@ def handle_powerups_and_cages(powerups,cages):
 def handle_summoned(kirbies):
     for kirby in kirbies:
         if kirby.summoned:
-            print(kirby.t)
+            #print(kirby.t)
             if kirby.t==-1:
                 kirby.summoned=False
                 
